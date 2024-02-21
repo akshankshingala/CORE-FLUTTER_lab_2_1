@@ -1,16 +1,4 @@
-# flutter_application_text_rich
+<img src = "https://github.com/akshankshingala/CORE-FLUTTER_lab_2_1/assets/150037897/38a4157f-c840-4e05-a337-fee7955fb0d6" width = "250px">
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![text_rich]()
